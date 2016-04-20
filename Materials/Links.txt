@@ -1,0 +1,32 @@
+
+
+
+
+
+
+
+Her er nogle links omkring brug af Deep Learning til Sentiment Analysis (og et par papers):
+http://nlp.stanford.edu/sentiment/
+https://fananymi.wordpress.com/2015/03/30/review-on-a-deep-learning-for-sentiment-analysis-from-twitter/
+http://www.wired.com/2013/10/sentiment-analysis-deep-learning/
+http://deeplearning.net/tutorial/lstm.html
+https://www.quora.com/How-is-deep-learning-used-in-sentiment-analysis?share=1
+http://engineering.stanford.edu/news/stanford-algorithm-analyzes-sentence-sentiment-advances-machine-learning
+https://dzone.com/articles/deep-learning-sentiment
+Azure ML: https://azure.microsoft.com/en-us/services/machine-learning/
+ 
+
+
+
+
+DM in general: 
+
+Here is a small list of different Data Mining tools you might find useful for your group project.
+
+Weka: http://www.cs.waikato.ac.nz/ml/weka/ (both GUI program and Java api)
+Tanagra: http://eric.univ-lyon2.fr/~ricco/tanagra/en/tanagra.html (GUI program, last updated in December 2013)
+Orange: http://orange.biolab.si/ (GUI program)
+Rapidminer: http://rapidminer.com/ (GUI program)
+Tableau: https://www.tableau.com/ (GUI program)
+Qlik: http://www.qlik.com/ (GUI program)
+R: https://www.r-project.org/ 
